@@ -79,8 +79,8 @@ education:
   - area: BS Computer Engineering
     institution: Sharif University of Technology
     icon: ""
-    date_start: Fall 2019
-    date_end: Oct 2025
+    date_start: 2019-09-10
+    date_end: 2025-02-18
     summary: |
       GPA: 3.8/4.0
 
